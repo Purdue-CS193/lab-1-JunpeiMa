@@ -1,7 +1,8 @@
 # Gloria's First CS193 Lab
+- Very informative.
 - The instructors are pretty humorous.
 - It's pretty chill in general.
-- Very informative.
+
 
 ## Welcome to GitHub Pages
 
